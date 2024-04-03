@@ -2,6 +2,10 @@
 
 one:
   name: MyString
+  brand: MyString
+  notes: one
 
 two:
   name: MyString
+  brand: MyString
+  notes: two

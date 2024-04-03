@@ -1,6 +1,6 @@
 require "test_helper"
 
-class TrucTest < ActiveSupport::TestCase
+class NoteTest < ActiveSupport::TestCase
   # test "the truth" do
   #   assert true
   # end
