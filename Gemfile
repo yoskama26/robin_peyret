@@ -76,6 +76,7 @@ end
 
 gem 'haml'
 
-gem 'html2haml'
-
-gem 'haml-rails'
+group :development do
+  gem 'html2haml'
+  gem 'haml-rails'
+end
