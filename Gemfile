@@ -28,6 +28,12 @@ gem "jbuilder"
 
 gem "devise"
 
+group :development do
+  gem "sqlite3", "~> 1.4"
+end
+
+
+
 # Use Redis adapter to run Action Cable in production
 # gem "redis", ">= 4.0.1"
 
@@ -67,3 +73,9 @@ group :test do
   gem "capybara"
   gem "selenium-webdriver"
 end
+
+gem 'haml'
+
+gem 'html2haml'
+
+gem 'haml-rails'
