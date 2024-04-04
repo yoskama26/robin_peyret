@@ -80,3 +80,4 @@ group :development do
   gem 'html2haml'
   gem 'haml-rails'
 end
+gem "tailwindcss-rails", "~> 2.3"
